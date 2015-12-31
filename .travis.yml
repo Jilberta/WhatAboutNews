@@ -6,6 +6,7 @@ android:
     - android-23
     - tools
     - extra-android-m2repository
+    - extra
 
 script:
   - ./gradlew assemble
