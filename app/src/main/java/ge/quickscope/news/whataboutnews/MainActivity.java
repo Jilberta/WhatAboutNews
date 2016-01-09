@@ -94,7 +94,6 @@ public class MainActivity extends AppCompatActivity {
 
                         if(rand == 0) result = k;
                         else result = k2;
-
 //                        return HeaderDesign.fromColorResAndUrl(
 //                                R.color.green,
 //                                "https://fs01.androidpit.info/a/63/0e/android-l-wallpapers-630ea6-h900.jpg");
